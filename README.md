@@ -2,7 +2,7 @@
  #                   Welcome👋
  
 <div align="center">
-<img align="center" alt="GIF" height="300px" src="" />
+<img align="center" alt="GIF" height="300px" src="open-peeps (1).png" />
  
 
  🔭 I’m currently studing on at **ESPOL**，Computer Science
