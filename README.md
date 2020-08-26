@@ -1,6 +1,7 @@
-### Welcome👋
-
+ 
 <div align="center">
+ ### Welcome👋
+
 <img align="center" alt="GIF" height="300px" src="" />
  
 
@@ -9,7 +10,7 @@
  🤔 I’m looking for help with mobile app development
  💬 Ask me about design Web design ❤️
 
-- ⚡ Fun fact: 
+ ⚡ Fun fact: 
 
 
  
