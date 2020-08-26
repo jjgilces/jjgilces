@@ -1,16 +1,28 @@
-### Hi there 👋
+### Welcome👋
 
-<!--
-**jjgilces/jjgilces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img align="center" alt="GIF" height="300px" src="" />
+ 
 
-Here are some ideas to get you started:
+ 🔭 I’m currently studing on at **ESPOL**，Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🤔 I’m looking for help with mobile app development
+ 💬 Ask me about design Web design ❤️
+
+- ⚡ Fun fact: 
+
+
+ 
+ 
+ ![](https://komarev.com/ghpvc/?username=jjgilces&color=ff69b4)
+
+
+
+
+
+ <img  src="https://github-readme-stats.vercel.app/api?username=jjgilces&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF">
+
+
+
+
+</div>
