@@ -9,7 +9,7 @@
 
  🤔 I’m looking for help with mobile app development
  
- 💬 Ask me about Web design ❤️
+ 💬 Ask me about Data Science ❤️
 
  
  ![](https://komarev.com/ghpvc/?username=jjgilces&color=ff69b4)
